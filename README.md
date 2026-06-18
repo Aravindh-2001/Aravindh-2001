@@ -1,16 +1,28 @@
-## Hi there 👋
+# Aravindh Selvaraj
+### Embedded Software Engineer | Linux BSP | ARM SoC | Device Drivers | RTOS
 
-<!--
-**Aravindh-2001/Aravindh-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4 years of experience in Linux BSP development, board bring-up, embedded C, and safety-critical systems.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- **BSP & Kernel:** Linux Kernel, U-Boot, Device Tree, BSP Bring-up, Character & Block Drivers
+- **RTOS:** VxWorks, FreeRTOS
+- **Protocols:** CAN, CAN-FD, I2C, SPI, UART, GPIO, PCIe
+- **Architectures:** ARM Cortex-A/M, IA, PPC
+- **Debug Tools:** GDB, JTAG, dmesg, ftrace, LDRA
+- **CI/CD:** Jenkins, Git, Shell Scripting, Python
+- **Standards:** ISO-26262, DO-178B/C, V-Model
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+| Repo | Description |
+|------|-------------|
+| [linux-bsp-uboot-beaglebone](https://github.com/Aravindh-2001/linux-bsp-uboot-beaglebone) | U-Boot bring-up, Device Tree customization, full boot flow on BeagleBone Black |
+| [linux-char-driver-eeprom](https://github.com/Aravindh-2001/linux-char-driver-eeprom) | Linux character driver for EEPROM over I2C on BeagleBone Black |
+| [stm32-vehicle-diagnostics](https://github.com/Aravindh-2001/stm32-vehicle-diagnostics) | CAN-based vehicle diagnostics node on STM32F407 with FreeRTOS |
+| [sensor-data-acquisition](https://github.com/Aravindh-2001/sensor-data-acquisition) | I2C/SPI sensor aggregation platform on BeagleBone Black with Device Tree |
+
+## 💼 Experience
+- **Professional Engineer** – Embedded Automotive Platform Enablement @ Wind River (2025–Present)
+- **Associate Engineer** – Embedded Tool Porting & Release Testing @ Wind River (2024–2025)
+- **Associate Engineer** – Embedded Validation & Verification @ Wind River (2023–2024)
+
+📧 aravindhselvaraj47@gmail.com • [LinkedIn](https://linkedin.com/in/aravindh-s-1bb4bb222)
