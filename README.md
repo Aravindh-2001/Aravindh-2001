@@ -19,6 +19,7 @@
 | [linux-char-driver-eeprom](https://github.com/Aravindh-2001/linux-char-driver-eeprom) | Linux character driver for EEPROM over I2C on BeagleBone Black |
 | [stm32-vehicle-diagnostics](https://github.com/Aravindh-2001/stm32-vehicle-diagnostics) | CAN-based vehicle diagnostics node on STM32F407 with FreeRTOS |
 | [sensor-data-acquisition](https://github.com/Aravindh-2001/sensor-data-acquisition) | I2C/SPI sensor aggregation platform on BeagleBone Black with Device Tree |
+| [bbb-usb-camera-framework](https://github.com/Aravindh-2001/bbb-usb-camera-framework) | USB camera capture and monitoring framework using V4L2, mmap buffers, kernel-space statistics, and USB traffic analysis on BeagleBone Black |
 
 ## 💼 Experience
 - **Professional Engineer** – Embedded Automotive Platform Enablement @ Wind River (2025–Present)
